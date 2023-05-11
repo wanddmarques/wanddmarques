@@ -1,14 +1,13 @@
 Òla a todos, eu me chamo Wandson é esse eo meu portifolio, Sejam bem-vindos para compartilhar experiências, trabalhos é ideias.
 - 👨‍💻 Estudante de Análise e desenvolvimento de sistemas
 - 📚 Estou atualmente estudando HTML, CSS, Javascript e melhorando a lógica de programação
-
-
+- 💭 Quero trabalhar com web, mas a longo prazo irei migrar para a aréa de desenvolsimento em games
 
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Wandson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Wandson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Wandson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Wandson-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Wandson-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Wandson-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 ##
 
