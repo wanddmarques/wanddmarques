@@ -3,11 +3,13 @@
 - 📚 Atualmente estudando HTML, CSS, Javascript e melhorando a lógica de programação
 - 💭 No momento busco trabalhar com web e a longo prazo migrar para a aréa de desenvolvimento em jogos
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Wandson-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Wandson-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Wandson-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
  
 ##
 
