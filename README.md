@@ -8,10 +8,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanddmarques&show_icons=true&count_private=true&hide_border=true&title_color=fffffficon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wandson Marques github stats" /> 
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Wandson-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Wandson-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Wandson-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<div style="display: inline_block">
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
  
  
 <div> 
