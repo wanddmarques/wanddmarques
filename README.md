@@ -1,7 +1,7 @@
 Òla a todos, eu me chamo Wandson é esse eo meu portifolio, Sejam bem-vindos para compartilhar experiências, trabalhos é ideias.
 - 👨‍💻 Estudante de Análise e desenvolvimento de sistemas
 - 📚 Atualmente estudando HTML, CSS, Javascript e melhorando a lógica de programação
-- 💭 Quero trabalhar com web, a longo prazo irei querer migrar para a aréa de desenvolvimento em games
+- 💭 No momento buscar trabalhar com web e a longo prazo irei querer migrar para a aréa de desenvolvimento em jogos
 
 
 <div style="display: inline_block"><br>
