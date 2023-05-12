@@ -1,4 +1,4 @@
-Òla a todos, eu me chamo Wandson e aqui lhes trago meu portifolio com intuito de compartilhar experiências, trabalhos é ideias.
+Òla a todos, eu me chamo Wandson e aqui lhes trago o meu portifolio com intuito de compartilhar experiências, trabalhos é ideias.
 - 👨‍💻 Estudante de Análise e desenvolvimento de sistemas
 - 📚 Atualmente estudando HTML, CSS, Javascript e melhorando a lógica de programação
 - 💭 No momento busco trabalhar com web e a longo prazo irei querer migrar para a aréa de desenvolvimento em jogos
