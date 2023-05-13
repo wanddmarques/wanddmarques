@@ -1,5 +1,5 @@
 ─ Òla a todos, eu me chamo Wandson e aqui lhes trago o meu portifolio, com intuito de compartilhar experiências, trabalhos é ideias. 
-Estudante de Análise e desenvolvimento de sistemas, no momento busco trabalhar com front-end e a longo prazo migrar para a aréa de desenvolvimento em jogos
+Estudante de Análise e desenvolvimento de sistemas, no momento busco trabalhar com front-end e a longo prazo migrar para a aréa de desenvolvimento em jogos.
 
 
 <div align="center">  
