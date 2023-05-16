@@ -1,4 +1,6 @@
 ## Olá a todos! Eu me chamo Wandson e bem vindo(a) ao meu Github
+Aqui irei postar meus projetos, ideias de site é aplicativos. 
+monstrando que podemos melhorar o dia a dia de cada pessoa com uma nova tecnologia ao seu favor.
 
 
 <div align="center">  
