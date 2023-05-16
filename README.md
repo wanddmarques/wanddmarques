@@ -2,6 +2,7 @@
 - Aqui irei postar meus projetos, ideias de sites é aplicativos. 
 mostrando que podemos melhorar o dia a dia de cada pessoa com uma nova tecnologia ao seu favor.
 - Cursando Análise e Desenvolvimento de sistemas
+- Buscando o primeiro estagio na área do front-end
  
 
 
