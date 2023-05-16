@@ -1,4 +1,4 @@
-─ ## Olar! Sou o Wandson e bem vindo(a) ao meu Github
+## Olar! Sou o Wandson e bem vindo(a) ao meu Github
 
 
 <div align="center">  
