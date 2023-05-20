@@ -9,7 +9,8 @@ mostrando que podemos melhorar o dia a dia de cada pessoa com uma nova tecnologi
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
- 
+
+## 
  
 <div> 
 <a href = "mailto:wandsonmarques01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
