@@ -4,11 +4,6 @@ mostrando que podemos melhorar o dia a dia de cada pessoa com uma nova tecnologi
 - Buscando o primeiro estagio na área do front-end
  
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanddmarques&show_icons=true&count_private=true&hide_border=true&title_color=fffffficon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wandson Marques github stats" /> 
-</div>
-
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
