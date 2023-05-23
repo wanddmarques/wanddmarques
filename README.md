@@ -9,6 +9,8 @@
   <img align="center" alt="Wandson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+![Wandson GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 ##
 
 ### Estudando neste momento:
