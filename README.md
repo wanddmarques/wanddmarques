@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Wandson Marques
-- Aqui irei postar meus projetos, ideias de sites é aplicativos. Cursando Análise e Desenvolvimento de sistemas, Buscando o primeiro estagio na área do front-end e
-apaixonado por tecnologia, PC, IA & Games. 
+- Aqui irei postar meus projetos, ideias de sites é aplicativos. Cursando Análise e Desenvolvimento de sistemas, buscando o primeiro estágio na área do front-end e apaixonado por tecnologia, PC, IA & Games.
 
 ## Tecnologias que uso no meu dia-a-dia!
 
