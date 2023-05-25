@@ -16,7 +16,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 #
-Onde me encontrar:
+Contatos:
 
 <br>
 <a href= "https://www.linkedin.com/in/wandson-jos%C3%A9-marques/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedim-logo"</a> 
