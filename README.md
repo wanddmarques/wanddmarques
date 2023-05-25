@@ -21,3 +21,7 @@
 ### Estudando neste momento:
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+<a href="https://github.com/th0921">
+  <img height="140" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=th0921&layout=compact&https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=th0921&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
