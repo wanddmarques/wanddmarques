@@ -11,11 +11,7 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanddmarques&theme=dark&show_icons=true&count_private=true)](https://github.com/omariosouto)" /> 
-<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanddmarques&layout=compact&hide_border=true&title_color=F0F8FF&text_color=00FA9A&bg_color=363636" />
-</div>
- 
+
 ##
 
 ### Estudando neste momento:
