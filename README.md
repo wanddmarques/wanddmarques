@@ -2,6 +2,7 @@
 ― sᴇᴊᴀᴍ ʙᴇᴍ ᴠɪɴᴅᴏs, ᴍᴇᴜ ɴᴏᴍᴇ ᴇ ᴡᴀɴᴅsᴏɴ ᴍᴀʀǫᴜᴇs, ᴀǫᴜɪ ɪʀᴇɪ ᴘᴏsᴛᴀʀ ᴍᴇᴜs ᴘʀᴏᴊᴇᴛᴏs, ɪᴅᴇɪᴀs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs. ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀ́ʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴇsᴛᴏᴜ sᴇᴍᴘʀᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ sᴏʙʀᴇ ɴᴏᴠᴀs ʟɪɴɢᴜᴀɢᴇɴs ᴇ ᴀᴘʀɪᴍᴏʀᴀɴᴅᴏ ᴀs ǫᴜᴇ ᴊᴀ ᴀᴅɪᴄɪᴏɴᴇɪ ɴᴀ ᴍɪɴʜᴀ ʀᴏᴛɪɴᴀ ᴅᴇ ᴇsᴛᴜᴅᴏs, ʙᴜsᴄᴀɴᴅᴏ ᴏ ᴘʀɪᴍᴇɪʀᴏ ᴇsᴛᴀ́ɢɪᴏ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴏ ғʀᴏɴᴛ-ᴇɴᴅ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ᴘᴄ, ɪᴀ & ɢᴀᴍᴇs  
  
 #
+➥ sᴋɪʟʟs 
  <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
