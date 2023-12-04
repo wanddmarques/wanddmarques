@@ -21,7 +21,8 @@
 <br>
 
 
-# ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
+# 
+➥ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
 
 ![](https://github-readme-stats.vercel.app/api?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wandsonmarques&theme=vision-friendly-dark&hide_border=true)<br/>
