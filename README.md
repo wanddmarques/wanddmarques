@@ -19,3 +19,10 @@
 <a href = "https://www.linkedin.com/in/wandson-jos%C3%A9-marques/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedim-logo"</a> 
 <a href = "mailto:contatowanddxp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
+
+
+# GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wandsonmarques&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
