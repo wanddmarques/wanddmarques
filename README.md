@@ -1,7 +1,8 @@
 ## Sᴏʙʀᴇ:
 ― sᴇᴊᴀᴍ ʙᴇᴍ ᴠɪɴᴅᴏs, ᴍᴇᴜ ɴᴏᴍᴇ ᴇ ᴡᴀɴᴅsᴏɴ ᴍᴀʀǫᴜᴇs, ᴀǫᴜɪ ɪʀᴇɪ ᴘᴏsᴛᴀʀ ᴍᴇᴜs ᴘʀᴏᴊᴇᴛᴏs, ɪᴅᴇɪᴀs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs. ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀ́ʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴇsᴛᴏᴜ sᴇᴍᴘʀᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ sᴏʙʀᴇ ɴᴏᴠᴀs ʟɪɴɢᴜᴀɢᴇɴs ᴇ ᴀᴘʀɪᴍᴏʀᴀɴᴅᴏ ᴀs ǫᴜᴇ ᴊᴀ ᴀᴅɪᴄɪᴏɴᴇɪ ɴᴀ ᴍɪɴʜᴀ ʀᴏᴛɪɴᴀ ᴅᴇ ᴇsᴛᴜᴅᴏs, ʙᴜsᴄᴀɴᴅᴏ ᴏ ᴘʀɪᴍᴇɪʀᴏ ᴇsᴛᴀ́ɢɪᴏ ɴᴀ ᴀ́ʀᴇᴀ ᴅᴏ ғʀᴏɴᴛ-ᴇɴᴅ, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ᴘᴄ, ɪᴀ & ɢᴀᴍᴇs  
  
-# ➥ sᴋɪʟʟs 
+# 
+➥ sᴋɪʟʟs 
  <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -11,7 +12,8 @@
 
 </p>
 
-# ➥ ᴍᴇᴜs ᴄᴏɴᴛᴀᴛᴏs:
+# 
+➥ ᴍᴇᴜs ᴄᴏɴᴛᴀᴛᴏs:
 
 <br>
 <a href = "https://www.linkedin.com/in/wandson-jos%C3%A9-marques/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt= "linkedim-logo"</a> 
@@ -19,7 +21,8 @@
 <br>
 
 
-# ➥ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
+# 
+➥ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
 
 ![](https://github-readme-stats.vercel.app/api?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wandsonmarques&theme=vision-friendly-dark&hide_border=true)<br/>
