@@ -24,6 +24,6 @@
 # 
 ➥ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
 
-![](https://github-readme-stats.vercel.app/api?username=WandsonMarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wandsonmarques&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wandson-Marques&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wandsonmarques&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
