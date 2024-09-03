@@ -1,6 +1,6 @@
-## Sᴏʙʀᴇ:
-― Me chamo Wandson Marques, aqui postarei meus projetos, 
-conceitos de sites e aplicativos, cursando Análise e desenvolvimento de sistemas, a premissa e fazer net working com os demais desenvolvedores e compartilhar projetos. 
+## ➥ sᴏʙʀᴇ:
+― ᴍᴇ ᴄʜᴀᴍᴏ ᴡᴀɴᴅsᴏɴ ᴍᴀʀǫᴜᴇs, ᴀǫᴜɪ ᴘᴏsᴛᴀʀᴇɪ ᴍᴇᴜs ᴘʀᴏᴊᴇᴛᴏs, 
+ᴄᴏɴᴄᴇɪᴛᴏs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs, ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴀ ᴘʀᴇᴍɪssᴀ ᴇ ғᴀᴢᴇʀ ɴᴇᴛ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍ ᴏs ᴅᴇᴍᴀɪs ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀᴇs ᴇ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴘʀᴏᴊᴇᴛᴏs. 
  
 # 
 ➥ sᴋɪʟʟs 
@@ -9,6 +9,7 @@ conceitos de sites e aplicativos, cursando Análise e desenvolvimento de sistema
 </p>
 
 # 
-A
+➥ ᴄᴏɴᴛᴀᴛᴏ
+
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
