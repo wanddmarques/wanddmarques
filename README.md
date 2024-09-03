@@ -1,6 +1,6 @@
 ## Sᴏʙʀᴇ:
 ― Me chamo Wandson Marques, aqui postarei meus projetos, 
-conceitos de sites e aplicativos, cursando análise e desenvolvimento de sistemas, A premissa e fazer net working com os demais desenvolvedores e compartilhar projetos. 
+conceitos de sites e aplicativos, cursando Análise e desenvolvimento de sistemas, a premissa e fazer net working com os demais desenvolvedores e compartilhar projetos. 
  
 # 
 ➥ sᴋɪʟʟs 
