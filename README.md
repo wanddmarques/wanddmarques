@@ -9,3 +9,5 @@ conceitos de sites e aplicativos, cursando Análise e desenvolvimento de sistema
 </p>
 
 # 
+
+   [![My Skills](https://skillicons.dev/icons?i=linkedln)](https://skillicons.dev)
