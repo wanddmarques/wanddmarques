@@ -5,9 +5,7 @@ conceitos de sites e aplicativos, cursando análise e desenvolvimento de sistema
 # 
 ➥ sᴋɪʟʟs 
 
-   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]       
-
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 # 
