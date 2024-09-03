@@ -9,3 +9,6 @@ conceitos de sites e aplicativos, cursando Análise e desenvolvimento de sistema
 </p>
 
 # 
+A
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
