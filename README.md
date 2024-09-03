@@ -1,5 +1,6 @@
 ## Sᴏʙʀᴇ:
-― sᴇᴊᴀᴍ ʙᴇᴍ-ᴠɪɴᴅᴏs, ᴍᴇᴜ ɴᴏᴍᴇ ᴇ ᴡᴀɴᴅsᴏɴ ᴍᴀʀǫᴜᴇs, ᴀǫᴜɪ ɪʀᴇɪ ᴘᴏsᴛᴀʀ ᴍᴇᴜs ᴘʀᴏᴊᴇᴛᴏs, ɪᴅᴇɪᴀs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs. ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀ́ʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴀᴘᴀɪxᴏɴᴀᴅᴏ ᴘᴏʀ ᴛᴇᴄɴᴏʟᴏɢɪᴀ & ɪᴀ.  
+― Me chamo Wandson Marques, aqui postarei meus projetos, 
+conceitos de sites e aplicativos, cursando análise e desenvolvimento de sistemas.   .  
  
 # 
 ➥ sᴋɪʟʟs 
