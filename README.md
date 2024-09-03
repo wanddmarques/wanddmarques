@@ -5,7 +5,7 @@
 # 
 ➥ sᴋɪʟʟs 
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,node.js)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs)](https://skillicons.dev)
 </p>
 
 # 
