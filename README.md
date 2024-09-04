@@ -1,6 +1,5 @@
 # ➥ sᴏʙʀᴇ: ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴄᴏɴᴄᴇɪᴛᴏs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs ᴄᴏᴍ ᴀ ᴘʀᴇᴍɪssᴀ ᴇᴍ ᴄᴏɴsᴛʀᴜɪʀ ᴜᴍ ɴᴇᴛ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍ ᴏs ᴅᴇᴍᴀɪs ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀᴇs ᴇ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴘʀᴏᴊᴇᴛᴏs. 
- 
-# 
+  
 ➥ sᴋɪʟʟs 
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs)](https://skillicons.dev)
