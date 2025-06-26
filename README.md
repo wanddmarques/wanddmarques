@@ -1,5 +1,4 @@
-➥ sᴏʙʀᴇ: 
-Desenvolvedor Júnior, formado em Análise e Desenvolvimento de Sistemas, com foco em JavaScript. interesse em desenvolvimento web, escrevendo código limpo e funcional. 
+➥ Desenvolvedor Júnior, formado em Análise e Desenvolvimento de Sistemas, com foco em JavaScript. interesse em desenvolvimento web, escrevendo código limpo e funcional. 
 Buscando oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e crescer profissionalmente na área da tecnologia.
   
 #
