@@ -1,5 +1,6 @@
 ➥ sᴏʙʀᴇ: 
-ᴄᴜʀsᴀɴᴅᴏ ᴀɴᴀʟɪsᴇ ᴇ ᴅᴇsᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ ᴅᴇ sɪsᴛᴇᴍᴀs, ᴄᴏɴᴄᴇɪᴛᴏs ᴅᴇ sɪᴛᴇs ᴇ ᴀᴘʟɪᴄᴀᴛɪᴠᴏs ᴄᴏᴍ ᴀ ᴘʀᴇᴍɪssᴀ ᴇᴍ ᴄᴏɴsᴛʀᴜɪʀ ᴜᴍ ɴᴇᴛ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍ ᴏs ᴅᴇᴍᴀɪs ᴅᴇsᴇɴᴠᴏʟᴠᴇᴅᴏʀᴇs ᴇ ᴄᴏᴍᴘᴀʀᴛɪʟʜᴀʀ ᴘʀᴏᴊᴇᴛᴏs. 
+Desenvolvedor Júnior, formado em Análise e Desenvolvimento de Sistemas, com foco em JavaScript. interesse em desenvolvimento web, escrevendo código limpo e funcional. 
+Buscando oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e crescer profissionalmente na área da tecnologia.
   
 #
 
