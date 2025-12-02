@@ -2,11 +2,9 @@
 
 Minhas ferramentas principais para a criação de aplicações web de ponta são:
 
->  Linguagens de Programação: JavaScript, TypeScript
-
->  Framework/Biblioteca: Next.js (Full-Stack), React.js (Interface)
-
->  Banco de Dados: MySQL (Gerenciamento de Dados Relacional)
+Linguagens de Programação: JavaScript, TypeScript
+Framework/Biblioteca: Next.js (Full-Stack), React.js (Interface)
+Banco de Dados: MySQL (Gerenciamento de Dados Relacional)
   
 #
 
