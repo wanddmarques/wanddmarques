@@ -8,13 +8,3 @@
 
 𝐁𝐚𝐧𝐜𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 ➤ 𝐌𝐲𝐒𝐐𝐋 (𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 𝐑𝐞𝐥𝐚𝐜𝐢𝐨𝐧𝐚𝐥)
 #
-
-➥ sᴋɪʟʟs 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs)](https://skillicons.dev)</p>
-
-# 
-➥ ᴄᴏɴᴛᴀᴛᴏ
-
-<a href="https://www.linkedin.com/in/wandson-jos%C3%A9-marques/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
