@@ -1,13 +1,12 @@
-— Desenvolvedor Frontend com formação em Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau. Minha especialidade é arquitetar e implementar interfaces de usuário (UI) dinâmicas e responsivas que garantem uma excelente experiência do usuário (UX).
+— 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐜𝐨𝐦 𝐟𝐨𝐫𝐦𝐚çã𝐨 𝐞𝐦 𝐀𝐧á𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 (𝐀𝐃𝐒) 𝐩𝐞𝐥𝐚 𝐔𝐧𝐢𝐧𝐚𝐬𝐬𝐚𝐮. 𝐌𝐢𝐧𝐡𝐚 𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞 é 𝐚𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐚𝐫 𝐞 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐝𝐞 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐈) 𝐝𝐢𝐧â𝐦𝐢𝐜𝐚𝐬 𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐚𝐬 𝐪𝐮𝐞 𝐠𝐚𝐫𝐚𝐧𝐭𝐞𝐦 𝐮𝐦𝐚 𝐞𝐱𝐜𝐞𝐥𝐞𝐧𝐭𝐞 𝐞𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 𝐝𝐨 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐗).
 
-Minhas ferramentas principais para a criação de aplicações web de ponta são:
+𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐢𝐬 𝐩𝐚𝐫𝐚 𝐚 𝐜𝐫𝐢𝐚çã𝐨 𝐝𝐞 𝐚𝐩𝐥𝐢𝐜𝐚çõ𝐞𝐬 𝐰𝐞𝐛 𝐝𝐞 𝐩𝐨𝐧𝐭𝐚 𝐬ã𝐨:
 
-Linguagens de Programação: JavaScript, TypeScript
+𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐝𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚çã𝐨: 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭
 
-Framework/Biblioteca: Next.js (Full-Stack), React.js (Interface)
+𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤/𝐁𝐢𝐛𝐥𝐢𝐨𝐭𝐞𝐜𝐚: 𝐍𝐞𝐱𝐭.𝐣𝐬 (𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤), 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 (𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞)
 
-Banco de Dados: MySQL (Gerenciamento de Dados Relacional)
-  
+𝐁𝐚𝐧𝐜𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬: 𝐌𝐲𝐒𝐐𝐋 (𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 𝐑𝐞𝐥𝐚𝐜𝐢𝐨𝐧𝐚𝐥)
 #
 
 ➥ sᴋɪʟʟs 
