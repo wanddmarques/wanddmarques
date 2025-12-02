@@ -1,5 +1,12 @@
-➥ Desenvolvedor Júnior, formado em Análise e Desenvolvimento de Sistemas, com foco em JavaScript. interesse em desenvolvimento web, escrevendo código limpo e funcional. 
-Buscando oportunidades para aplicar meus conhecimentos, aprender novas tecnologias e crescer profissionalmente na área da tecnologia.
+— Desenvolvedor Frontend com formação em Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau. Minha especialidade é arquitetar e implementar interfaces de usuário (UI) dinâmicas e responsivas que garantem uma excelente experiência do usuário (UX).
+
+Minhas ferramentas principais para a criação de aplicações web de ponta são:
+
+>  Linguagens de Programação: JavaScript, TypeScript
+
+>  Framework/Biblioteca: Next.js (Full-Stack), React.js (Interface)
+
+>  Banco de Dados: MySQL (Gerenciamento de Dados Relacional)
   
 #
 
