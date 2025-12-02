@@ -1,12 +1,72 @@
-― 𝐌𝐞𝐧𝐭𝐞 𝐞𝐦 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐦𝐞𝐧𝐭𝐨 𝐈𝐧𝐢𝐧𝐭𝐞𝐫𝐫𝐮𝐩𝐭𝐨, 𝐚𝐩𝐫𝐞𝐜𝐢𝐚𝐝𝐨𝐫 𝐝𝐞 𝐜𝐚𝐟é 𝐩𝐨𝐫 𝐯𝐨𝐜𝐚çã𝐨. 𝐆𝐨𝐬𝐭𝐨 𝐝𝐞 𝐫𝐞𝐬𝐨𝐥𝐯𝐞𝐫 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐚𝐬 𝐪𝐮𝐞 𝐞𝐮 𝐦𝐞𝐬𝐦𝐨 𝐜𝐫𝐢𝐞𝐢. 𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐚𝐝𝐨 𝐞𝐦 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐞 𝐆𝐨𝐨𝐠𝐥𝐚𝐫 𝐚 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚çã𝐨.
+<h1 align="center">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ</h1>
 
-𝐅𝐨𝐫𝐦𝐚çã𝐨 𝐞𝐦 𝐀𝐧á𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 (𝐀𝐃𝐒) 𝐩𝐞𝐥𝐚 𝐔𝐧𝐢𝐧𝐚𝐬𝐬𝐚𝐮. 𝐌𝐢𝐧𝐡𝐚 𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞 é 𝐚𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐚𝐫 𝐞 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐝𝐞 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐈) 𝐝𝐢𝐧â𝐦𝐢𝐜𝐚𝐬 𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐚𝐬 𝐪𝐮𝐞 𝐠𝐚𝐫𝐚𝐧𝐭𝐞𝐦 𝐮𝐦𝐚 𝐞𝐱𝐜𝐞𝐥𝐞𝐧𝐭𝐞 𝐞𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 𝐝𝐨 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐗).
+###
 
-𝐌𝐢𝐧𝐡𝐚𝐬 𝐟𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐢𝐬 𝐩𝐚𝐫𝐚 𝐚 𝐜𝐫𝐢𝐚çã𝐨 𝐝𝐞 𝐚𝐩𝐥𝐢𝐜𝐚çõ𝐞𝐬 𝐰𝐞𝐛 𝐝𝐞 𝐩𝐨𝐧𝐭𝐚 𝐬ã𝐨:
+<div align="center">
+</div>
 
-𝐋𝐢𝐧𝐠𝐮𝐚𝐠𝐞𝐧𝐬 𝐝𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐚çã𝐨 ➤ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭
+###
 
-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 / 𝐁𝐢𝐛𝐥𝐢𝐨𝐭𝐞𝐜𝐚𝐬 ➤ 𝐍𝐞𝐱𝐭.𝐣𝐬 (𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤), 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 (𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-𝐁𝐚𝐧𝐜𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 ➤ 𝐌𝐲𝐒𝐐𝐋 (𝐆𝐞𝐫𝐞𝐧𝐜𝐢𝐚𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐃𝐚𝐝𝐨𝐬 𝐑𝐞𝐥𝐚𝐜𝐢𝐨𝐧𝐚𝐥)
-#
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="wandsonmarques01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/wandson-jos%C3%A9-marques/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wanddmarques/wanddmarques/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wanddmarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wanddmarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wanddmarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wanddmarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
