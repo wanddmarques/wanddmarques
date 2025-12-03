@@ -1,7 +1,7 @@
 <h1 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛</h1>
 
 
-Sou formado(a) em **Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau**.  
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau**.  
 Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) dinâmicas e responsivas**, garantindo **uma excelente experiência do usuário (UX)**.
 
 ---
