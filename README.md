@@ -32,7 +32,7 @@
 
 ###
  
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WandsonMarques&theme=zenburn" alt="Profile details badge"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wandson-Marques&theme=zenburn" alt="Profile details badge"/>
 
 ### 
 
