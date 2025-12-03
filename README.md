@@ -1,7 +1,22 @@
 <h1 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛</h1>
 
 
-𝐅𝐨𝐫𝐦𝐚çã𝐨 𝐞𝐦 𝐀𝐧á𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 (𝐀𝐃𝐒) 𝐩𝐞𝐥𝐚 𝐔𝐧𝐢𝐧𝐚𝐬𝐬𝐚𝐮. 𝐌𝐢𝐧𝐡𝐚 𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐝𝐚𝐝𝐞 é 𝐚𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐚𝐫 𝐞 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 𝐝𝐞 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐈) 𝐝𝐢𝐧â𝐦𝐢𝐜𝐚𝐬 𝐞 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐚𝐬 𝐪𝐮𝐞 𝐠𝐚𝐫𝐚𝐧𝐭𝐞𝐦 𝐮𝐦𝐚 𝐞𝐱𝐜𝐞𝐥𝐞𝐧𝐭𝐞 𝐞𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 𝐝𝐨 𝐮𝐬𝐮á𝐫𝐢𝐨 (𝐔𝐗).
+Sou formado(a) em **Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau**.  
+Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) dinâmicas e responsivas**, garantindo **uma excelente experiência do usuário (UX)**.
+
+---
+
+## 💻 Sobre mim
+- Desenvolvedor(a) focado(a) em **Front-End**
+- Apaixonado(a) por **design, interatividade e experiência do usuário**
+- Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
+
+
+## 🚀 O que você vai encontrar aqui
+- Projetos Front-End  
+- Estudos e experimentos em JavaScript  
+- Interfaces modernas, responsivas e funcionais  
+- Evolução contínua no desenvolvimento web  
 
 <br>
 
