@@ -34,23 +34,3 @@
 <img src="https://raw.githubusercontent.com/wanddmarques/wanddmarques/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
