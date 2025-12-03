@@ -11,6 +11,7 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 - Apaixonado(a) por **design, interatividade e experiência do usuário**
 - Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
 
+---
 
 ## 🚀 O que você vai encontrar aqui
 - Projetos Front-End  
