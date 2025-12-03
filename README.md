@@ -31,10 +31,6 @@
 </div>
 
 ###
- 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wandson Marques&theme=zenburn" alt="Profile details badge"/>
-
-### 
 
 <br clear="both">
 
