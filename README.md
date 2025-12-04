@@ -8,7 +8,7 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ## 👨🏾‍💻 Sobre mim
 - Desenvolvedor focado em **Front-End**
-- Apaixonado(a) por **design, interatividade e experiência do usuário**
+- Apaixonado por **design, interatividade e experiência do usuário**
 - Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
 
 ---
