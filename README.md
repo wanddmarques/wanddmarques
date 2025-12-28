@@ -27,7 +27,7 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  /> 
 </div>
 
 ###
@@ -41,6 +41,6 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ####
 
-<br clear="both">
+<br clear="both"> 
 
-<img src="https://raw.githubusercontent.com/wanddmarques/wanddmarques/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wanddmarques/wanddmarques/output/snake.svg" alt="Snake animation" /> 
