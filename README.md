@@ -40,5 +40,3 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 </div>
 
 ####
-
-<br clear="both"> 
