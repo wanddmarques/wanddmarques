@@ -42,5 +42,3 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 ####
 
 <br clear="both"> 
-
-<img src="https://raw.githubusercontent.com/wanddmarques/wanddmarques/output/snake.svg" alt="Snake animation" /> 
