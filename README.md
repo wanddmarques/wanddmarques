@@ -31,23 +31,3 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 </div>
 
 ###
-
-<p><strong>WakaTime:</strong> Total coding time since February 2023</p>
-<div align="start">
-  <img height="180em" src="https://github-readme-stats-git-master-dioaugust.vercel.app/api/wakatime?username=@DioAugust&langs_count=6&layout=compact&theme=merko&range=all_time&hide=markdown" alt="WakaTime Stats"/>
-</div>
-
-
-<div align="start">
-  <img src="https://github-readme-activity-graph-red.vercel.app/graph?username=DioAugust&theme=merko&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wandson-jos%C3%A9-marques/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-####
