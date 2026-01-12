@@ -12,6 +12,26 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 - UI/UX transformando layouts complexos em interfaces funcionais e acessíveis 
 
+# Olá, eu sou o [Seu Nome]! 👋
+
+### 👨‍💻 Sobre mim
+No meu **dia-a-dia**, dedico meu tempo à criação de **Projetos Front-End** de alto impacto, sempre buscando o equilíbrio perfeito entre estética e funcionalidade.
+
+### 🎨 Foco em UI/UX
+Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
+- **Funcionalidade:** Código limpo e intuitivo.
+- **Acessibilidade:** Interfaces inclusivas para todos os usuários.
+- **Segurança:** Implementação de boas práticas (como fluxos de login via POST).
+
+### 🧪 Estudos e Experimentos
+Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**, explorando:
+- Manipulação dinâmica do DOM.
+- Validações de formulários e segurança de dados.
+- Micro-interações que melhoram a experiência do usuário.
+
+---
+📫 **Vamos conversar?** [Seu Link do LinkedIn ou E-mail]
+
 <br>
 
 ### 
