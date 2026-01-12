@@ -17,7 +17,7 @@ Minha especialidade é a tradução de **layouts complexos** em interfaces reais
 - **Acessibilidade:** Interfaces inclusivas para todos os usuários.
 - **Segurança:** Implementação de boas práticas (como fluxos de login via POST).
 
-### 🧪𝐄𝐬𝐭𝐮𝐝𝐨𝐬 𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬
+### 🧪𝐄𝐬𝐭𝐮𝐝𝐨𝐬 𝐞 e𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬
 Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**, explorando:
 - Manipulação dinâmica do DOM.
 - Validações de formulários e segurança de dados.
