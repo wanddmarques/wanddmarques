@@ -27,11 +27,11 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
 
 ### 🔧 Ferramentas principais 
 
-Linguagens de Programação: JavaScript, TypeScript&gt
+- **Linguagens de Programação:** JavaScript, TypeScript&gt
 
-Framework/Biblioteca: Next.js, React.js
+- **Framework/Biblioteca:** Next.js, React.js
 
-Banco de Dados: MySQL
+- **Banco de Dados:** MySQL
 
 ---
 <br>
