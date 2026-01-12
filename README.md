@@ -24,6 +24,14 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
 - Validações de formulários e segurança de dados.
 - Micro-interações que melhoram a experiência do usuário.
 
+
+### Ferramentas principais: 
+
+Linguagens de Programação: JavaScript, TypeScript&gt
+
+Framework/Biblioteca: Next.js, React.js
+
+Banco de Dados: MySQL
 ---
 <br>
 
