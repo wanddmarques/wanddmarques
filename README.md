@@ -1,4 +1,4 @@
-<h1 align="center">Profile Github</h1>
+<h1 align="center">𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐆𝐢𝐭𝐡𝐮𝐛</h1>
 
 
 Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau**.  
@@ -7,25 +7,24 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 ---
 
 ## 
-# Olá, eu sou Wandson Marques! 
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦
 No meu **dia-a-dia**, dedico meu tempo à criação de **Projetos Front-End**, sempre buscando o equilíbrio perfeito entre estética e funcionalidade.
 
-### 🎨 Foco em UI/UX
+### 🎨 𝐅𝐨𝐜𝐨 𝐞𝐦 𝐔𝐈/𝐔𝐗
 Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
 - **Funcionalidade:** Código limpo e intuitivo.
 - **Acessibilidade:** Interfaces inclusivas para todos os usuários.
 - **Segurança:** Implementação de boas práticas (como fluxos de login via POST).
 
-### 🧪 Estudos e Experimentos
+### 🧪𝐄𝐬𝐭𝐮𝐝𝐨𝐬 𝐞 𝐄𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬
 Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**, explorando:
 - Manipulação dinâmica do DOM.
 - Validações de formulários e segurança de dados.
 - Micro-interações que melhoram a experiência do usuário.
 
 
-### 🔧 Ferramentas principais 
+### 🔧 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐢𝐬 
 
 - **Linguagens de Programação:** JavaScript, TypeScript&gt
 
