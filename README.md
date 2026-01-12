@@ -6,10 +6,10 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ---
 
-## ⚙️Dia-a-Dia
+## ⚙️ Dia-a-Dia
 - Projetos Front-End  
 - Estudos e experimentos em JavaScript  
-- Interfaces modernas, responsivas e funcionais  
+
 - UI/UX transformando layouts complexos em interfaces funcionais e acessíveis 
 
 <br>
