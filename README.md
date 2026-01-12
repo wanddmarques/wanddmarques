@@ -6,13 +6,8 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ---
 
-## ⚙️ Dia-a-Dia
-- Projetos Front-End  
-- Estudos e experimentos em JavaScript  
-
-- UI/UX transformando layouts complexos em interfaces funcionais e acessíveis 
-
-# Olá, eu sou o [Seu Nome]! 👋
+## 
+# Olá, eu sou Wandson Marques! 👋
 
 ### 👨‍💻 Sobre mim
 No meu **dia-a-dia**, dedico meu tempo à criação de **Projetos Front-End** de alto impacto, sempre buscando o equilíbrio perfeito entre estética e funcionalidade.
