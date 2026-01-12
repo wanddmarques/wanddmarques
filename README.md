@@ -25,7 +25,7 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
 - Micro-interações que melhoram a experiência do usuário.
 
 
-### Ferramentas principais: 🪛
+### 🔧 Ferramentas principais 
 
 Linguagens de Programação: JavaScript, TypeScript&gt
 
