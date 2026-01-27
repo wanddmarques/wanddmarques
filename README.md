@@ -25,7 +25,7 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
 
 
 ### 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐢𝐬 
-
+  
 - **Linguagens de Programação:** JavaScript, TypeScript&gt
 
 - **Framework/Biblioteca:** Next.js, React.js
