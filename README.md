@@ -48,7 +48,6 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  /> 
 </div>
 
 ###
