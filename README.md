@@ -6,10 +6,7 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ---
 
-## 
-
-### 𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦
-No meu **dia-a-dia**, dedico meu tempo à criação de **Projetos Front-End**, sempre buscando o equilíbrio perfeito entre estética e funcionalidade.
+##
 
 ### 𝐅𝐨𝐜𝐨 𝐞𝐦 𝐔𝐈/𝐔𝐗
 Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
