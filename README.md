@@ -6,8 +6,6 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ---
 
-##
-
 ### 𝐅𝐨𝐜𝐨 𝐞𝐦 𝐔𝐈/𝐔𝐗
 Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
 - **Funcionalidade:** Código limpo e intuitivo.
