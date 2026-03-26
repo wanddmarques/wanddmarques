@@ -44,4 +44,4 @@ Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**,
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
+### 
