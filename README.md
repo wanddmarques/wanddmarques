@@ -15,7 +15,7 @@ Minha especialidade é a tradução de **layouts complexos** em interfaces reais
 
 
 ### 𝙀𝙨𝙩𝙪𝙙𝙤𝙨 𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙤𝙨:
-Atualmente, focado em estudos avançados em JavaScript & React, explorando:
+Atualmente focado em estudos avançados em JavaScript & React, explorando:
 
 - Manipulação dinâmica do DOM.
 - Validações de formulários.
