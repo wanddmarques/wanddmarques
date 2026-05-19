@@ -8,6 +8,7 @@ Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) di
 
 ### 𝙁𝙤𝙘𝙤 𝙚𝙢 𝙐𝙄/𝙐𝙓:
 Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
+
 - **Funcionalidade:** Código limpo e intuitivo.
 - **Acessibilidade:** Interfaces inclusivas para todos os usuários.
 - **Segurança:** Implementação de boas práticas (como fluxos de login via POST). 
@@ -15,8 +16,11 @@ Minha especialidade é a tradução de **layouts complexos** em interfaces reais
 
 ### 𝙀𝙨𝙩𝙪𝙙𝙤𝙨 𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙤𝙨:
 Atualmente, estou focado em estudos avançados em JavaScript & React, explorando:
+
 - Manipulação dinâmica do DOM.
 - Validações de formulários.
+- Responsividade e boas práticas de UI/UX
+- Componentização de interfaces
 
 
 ### 𝙃𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚𝙨 𝙩é𝙘𝙣𝙞𝙘𝙖𝙨:
