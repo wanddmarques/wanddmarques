@@ -12,20 +12,15 @@ Minha especialidade é a tradução de **layouts complexos** em interfaces reais
 - **Acessibilidade:** Interfaces inclusivas para todos os usuários.
 - **Segurança:** Implementação de boas práticas (como fluxos de login via POST).
 
-### 𝐄𝐬𝐭𝐮𝐝𝐨𝐬 𝐞 e𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬
+### 𝐄𝐬𝐭𝐮𝐝𝐨𝐬 𝐞 e𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐨𝐬:
 Atualmente, estou focado em **estudos e experimentos avançados em JavaScript**, explorando:
 - Manipulação dinâmica do DOM.
-- Validações de formulários e segurança de dados.
-- Micro-interações que melhoram a experiência do usuário.
+- Validações de formulários.
 
 
-### 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐢𝐬 
+### Habilidades técnicas:
   
-- **Linguagens de Programação:** JavaScript, TypeScript&gt
-
-- **Framework/Biblioteca:** Next.js, React.js
-
-- **Banco de Dados:** MySQL
+- JavaScript, HTML5, CSS3, React, Bootstrap, Tailwind, Responsividade, SEO, UI/UX
 
 ---
 <br>
