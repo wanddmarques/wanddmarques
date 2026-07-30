@@ -43,5 +43,5 @@ Atualmente focado em estudos avançados em JavaScript & React, explorando:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
-
+ 
 ### 
