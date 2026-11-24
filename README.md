@@ -5,7 +5,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS) pela Uninassau**.
 Minha especialidade é **arquitetar e implementar interfaces de usuário (UI) dinâmicas e responsivas**, garantindo **uma excelente experiência do usuário (UX)**.
 
 ---
-
+ 
 ### 𝙁𝙤𝙘𝙤 𝙚𝙢 𝙐𝙄/𝙐𝙓:
 Minha especialidade é a tradução de **layouts complexos** em interfaces reais, priorizando:
 
